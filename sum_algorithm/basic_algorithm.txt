@@ -1,0 +1,8 @@
+- read the 18 numbers from where they are stored and put them in an array
+- Naturally, each number in the array is indexed 
+- Take the first number at the zero index, and add the next number to it (the one at the 1 index ) 
+- Get the sum
+- loop through the array , adding the number at the next index position to the new sum 
+- Get the new sum…loop through again in the same way through each number in the array 
+- After the number at the 17th index is added, end the loop 
+- print the final sum
