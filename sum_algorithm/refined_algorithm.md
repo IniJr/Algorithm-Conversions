@@ -10,7 +10,7 @@ Print the sum
 
 **Refinement 2:**  
 Let A be a list of numbers such that A = [a<sub>1</sub>, a<sub>2</sub>, …, a<sub>n</sub>] where n = 18  
-Sum = a<sub>1</sub>+a<sub>2</sub>  
+sum = a<sub>1</sub>+a<sub>2</sub>  
 i = 3  
 Do:  
 &emsp; sum = a<sub>i</sub> + sum  
@@ -20,8 +20,18 @@ Display sum
 
 **Refinement 3:**  
 Let A be a list of numbers such that A = [a<sub>1</sub>, a<sub>2</sub>, …, a<sub>n</sub>] where n = the size of list  
-Sum = a<sub>1</sub>+a<sub>2</sub>  
+sum = a<sub>1</sub>+a<sub>2</sub>  
 i = 3  
+Do:  
+&emsp; sum = a<sub>i</sub> + sum  
+&emsp; i = i + 1  
+Until i = n  
+Display sum  
+
+**Refinement 4:**  
+Let A be a list of numbers such that A = [a<sub>1</sub>, a<sub>2</sub>, …, a<sub>n</sub>] where n = the size of list  
+sum = 0  
+i = 1  
 Do:  
 &emsp; sum = a<sub>i</sub> + sum  
 &emsp; i = i + 1  
