@@ -12,7 +12,7 @@ Print the sum
 Let A be a list of numbers such that A = [a1, a2, …, an] where n = 18  
 Sum = a1+a2  
 I = 3  
-Do:
+Do:  
 &emsp; sum = aI + sum  
 &emsp; I = I + 1  
 Until I = 18  
