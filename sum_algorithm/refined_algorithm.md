@@ -9,11 +9,11 @@ Until index = 17
 Print the sum  
 
 **Refinement 2:**  
-Let A be a list of numbers such that A = [a<sub>1</sub>, a_2, …, a_n] where n = 18  
-Sum = a1+a2  
-I = 3  
+Let A be a list of numbers such that A = [a<sub>1</sub>, a<sub>2</sub>, …, a<sub>n</sub>] where n = 18  
+Sum = a<sub>1</sub>+a<sub>2</sub>  
+i = 3  
 Do:  
-&emsp; sum = aI + sum  
-&emsp; I = I + 1  
-Until I = 18  
+&emsp; sum = a<sub>i</sub> + sum  
+&emsp; i = i + 1  
+Until i = 18  
 Display sum  
