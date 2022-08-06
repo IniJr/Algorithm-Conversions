@@ -1,0 +1,210 @@
+eba, egg and chicken
+eba, egg and beef
+eba, egg and chevon
+eba, egg and pork
+eba, egg and fish
+eba, stew and chicken
+eba, stew and beef
+eba, stew and chevon
+eba, stew and pork
+eba, stew and fish
+eba, afang and chicken
+eba, afang and beef
+eba, afang and chevon
+eba, afang and pork
+eba, afang and fish
+eba, egusi and chicken
+eba, egusi and beef
+eba, egusi and chevon
+eba, egusi and pork
+eba, egusi and fish
+eba, beans and chicken
+eba, beans and beef
+eba, beans and chevon
+eba, beans and pork
+eba, beans and fish
+eba, white soup and chicken
+eba, white soup and beef
+eba, white soup and chevon
+eba, white soup and pork
+eba, white soup and fish
+eba, pepper soup and chicken
+eba, pepper soup and beef
+eba, pepper soup and chevon
+eba, pepper soup and pork
+eba, pepper soup and fish
+rice, egg and chicken
+rice, egg and beef
+rice, egg and chevon
+rice, egg and pork
+rice, egg and fish
+rice, stew and chicken
+rice, stew and beef
+rice, stew and chevon
+rice, stew and pork
+rice, stew and fish
+rice, afang and chicken
+rice, afang and beef
+rice, afang and chevon
+rice, afang and pork
+rice, afang and fish
+rice, egusi and chicken
+rice, egusi and beef
+rice, egusi and chevon
+rice, egusi and pork
+rice, egusi and fish
+rice, beans and chicken
+rice, beans and beef
+rice, beans and chevon
+rice, beans and pork
+rice, beans and fish
+rice, white soup and chicken
+rice, white soup and beef
+rice, white soup and chevon
+rice, white soup and pork
+rice, white soup and fish
+rice, pepper soup and chicken
+rice, pepper soup and beef
+rice, pepper soup and chevon
+rice, pepper soup and pork
+rice, pepper soup and fish
+fufu, egg and chicken
+fufu, egg and beef
+fufu, egg and chevon
+fufu, egg and pork
+fufu, egg and fish
+fufu, stew and chicken
+fufu, stew and beef
+fufu, stew and chevon
+fufu, stew and pork
+fufu, stew and fish
+fufu, afang and chicken
+fufu, afang and beef
+fufu, afang and chevon
+fufu, afang and pork
+fufu, afang and fish
+fufu, egusi and chicken
+fufu, egusi and beef
+fufu, egusi and chevon
+fufu, egusi and pork
+fufu, egusi and fish
+fufu, beans and chicken
+fufu, beans and beef
+fufu, beans and chevon
+fufu, beans and pork
+fufu, beans and fish
+fufu, white soup and chicken
+fufu, white soup and beef
+fufu, white soup and chevon
+fufu, white soup and pork
+fufu, white soup and fish
+fufu, pepper soup and chicken
+fufu, pepper soup and beef
+fufu, pepper soup and chevon
+fufu, pepper soup and pork
+fufu, pepper soup and fish
+yam, egg and chicken
+yam, egg and beef
+yam, egg and chevon
+yam, egg and pork
+yam, egg and fish
+yam, stew and chicken
+yam, stew and beef
+yam, stew and chevon
+yam, stew and pork
+yam, stew and fish
+yam, afang and chicken
+yam, afang and beef
+yam, afang and chevon
+yam, afang and pork
+yam, afang and fish
+yam, egusi and chicken
+yam, egusi and beef
+yam, egusi and chevon
+yam, egusi and pork
+yam, egusi and fish
+yam, beans and chicken
+yam, beans and beef
+yam, beans and chevon
+yam, beans and pork
+yam, beans and fish
+yam, white soup and chicken
+yam, white soup and beef
+yam, white soup and chevon
+yam, white soup and pork
+yam, white soup and fish
+yam, pepper soup and chicken
+yam, pepper soup and beef
+yam, pepper soup and chevon
+yam, pepper soup and pork
+yam, pepper soup and fish
+bread, egg and chicken
+bread, egg and beef
+bread, egg and chevon
+bread, egg and pork
+bread, egg and fish
+bread, stew and chicken
+bread, stew and beef
+bread, stew and chevon
+bread, stew and pork
+bread, stew and fish
+bread, afang and chicken
+bread, afang and beef
+bread, afang and chevon
+bread, afang and pork
+bread, afang and fish
+bread, egusi and chicken
+bread, egusi and beef
+bread, egusi and chevon
+bread, egusi and pork
+bread, egusi and fish
+bread, beans and chicken
+bread, beans and beef
+bread, beans and chevon
+bread, beans and pork
+bread, beans and fish
+bread, white soup and chicken
+bread, white soup and beef
+bread, white soup and chevon
+bread, white soup and pork
+bread, white soup and fish
+bread, pepper soup and chicken
+bread, pepper soup and beef
+bread, pepper soup and chevon
+bread, pepper soup and pork
+bread, pepper soup and fish
+plantain, egg and chicken
+plantain, egg and beef
+plantain, egg and chevon
+plantain, egg and pork
+plantain, egg and fish
+plantain, stew and chicken
+plantain, stew and beef
+plantain, stew and chevon
+plantain, stew and pork
+plantain, stew and fish
+plantain, afang and chicken
+plantain, afang and beef
+plantain, afang and chevon
+plantain, afang and pork
+plantain, afang and fish
+plantain, egusi and chicken
+plantain, egusi and beef
+plantain, egusi and chevon
+plantain, egusi and pork
+plantain, egusi and fish
+plantain, beans and chicken
+plantain, beans and beef
+plantain, beans and chevon
+plantain, beans and pork
+plantain, beans and fish
+plantain, white soup and chicken
+plantain, white soup and beef
+plantain, white soup and chevon
+plantain, white soup and pork
+plantain, white soup and fish
+plantain, pepper soup and chicken
+plantain, pepper soup and beef
+plantain, pepper soup and chevon
+plantain, pepper soup and pork
+plantain, pepper soup and fish
