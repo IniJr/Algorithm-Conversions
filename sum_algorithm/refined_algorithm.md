@@ -9,7 +9,7 @@ Until index = 17
 Print the sum  
 
 **Refinement 2:**  
-Let A be a list of numbers such that A = [a_1, a_2, …, a_n] where n = 18  
+Let A be a list of numbers such that A = [a<sub>1</sub>, a_2, …, a_n] where n = 18  
 Sum = a1+a2  
 I = 3  
 Do:  
