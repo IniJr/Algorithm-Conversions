@@ -1,0 +1,3 @@
+1. You have a set of 18 numbers, write an algorithm or a description in your own style of how you would add these numbers together
+2. You have a set of 180 numbers, write an algorithm or a description in your own style of how you would add these numbers together
+3. You have a set of 360 numbers, write an algorithm or a description in your own style of how you would add these numbers together
