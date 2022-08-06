@@ -17,3 +17,13 @@ Do:
 &emsp; i = i + 1  
 Until i = 18  
 Display sum  
+
+**Refinement 3:**  
+Let A be a list of numbers such that A = [a<sub>1</sub>, a<sub>2</sub>, …, a<sub>n</sub>] where n = the size of list  
+Sum = a<sub>1</sub>+a<sub>2</sub>  
+i = 3  
+Do:  
+&emsp; sum = a<sub>i</sub> + sum  
+&emsp; i = i + 1  
+Until i = n  
+Display sum  
