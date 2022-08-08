@@ -5,8 +5,8 @@
 # Let FM = a set of items in the food menu
 
 P = ["eba", "rice", "fufu", "yam", "bread", "plantain"]
-S= ["egg", "stew", "afang", "egusi", "beans", "white soup", "pepper soup"]
-PR=["chicken", "beef", "chevon", "pork", "fish"]
+S = ["egg", "stew", "afang", "egusi", "beans", "white soup", "pepper soup"]
+PR =["chicken", "beef", "chevon", "pork", "fish"]
 PS = []
 FM = []
 
