@@ -6,7 +6,7 @@
 
 P = ["eba", "rice", "fufu", "yam", "bread", "plantain"]
 S = ["egg", "stew", "afang", "egusi", "beans", "white soup", "pepper soup"]
-PR =["chicken", "beef", "chevon", "pork", "fish"]
+PR = ["chicken", "beef", "chevon", "pork", "fish"]
 PS = []
 FM = []
 
