@@ -11,10 +11,10 @@
 # - Display items in FM 
 # - Prompt user to input their order from the menu
 # - Assign user’s input to the variable called order
-# - Search through FM  for order   
-# - For i in FM : 
+# - Search through FM for order   
+# - For i in FM: 
 # -     if order == (FM[i]):
-# -        print “Order taken. Please hold on          for ….minutes while your food is being prepared “
+# -        print “Order taken. Please hold on for … minutes while your food is being prepared“
 # -     else:
 # -        Print “Sorry, that is currently not on our menu. Please place another order” 
 
@@ -126,7 +126,7 @@ FM = ["eba, afang and chicken",
 "plantain, pepper soup and beef",
 "plantain, pepper soup and chevon",
 "plantain, pepper soup and pork",
-"plantain, pepper soup and fish]"]
+"plantain, pepper soup and fish"]
 
 timing_rule = {"rice":30, "eba":45, "bread":15, "yam":30, "plantain": 25}
 print("Welcome to MK's Cuisine, Have a look at our tasty delicacies")
@@ -140,6 +140,6 @@ if customers_choice <= len(FM) or customers_choice >= 1:
     if confirmation == "N" or confirmation == "n" or confirmation == "No" or confirmation == "no" or confirmation == "NO":
         print("Order cancelled")
     else:
-        print("Please hold on for ….minutes while your food is being prepared")
+        print("Please hold on for …. minutes while your food is being prepared")
 else:
     print("Sorry, that is currently not on our menu. Please place another order")
